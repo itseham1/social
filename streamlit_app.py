@@ -55,4 +55,4 @@ st.write(
 )
 st.markdown("---")
 if st.button(":rocket: Let's play together and Discover Your Score Index"):
-    st.switch_page("app")
+    st.switch_page("app.py")
